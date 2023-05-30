@@ -99,7 +99,7 @@ The attached container must not be started until this container is up and fully 
 
 If you face network connection problems, I suggest you to set a specific DNS server for each container.
 
-Alternatively, if your software supports it, you can use the socks5 server embedded in this container. It will redirect your traffic through the Surfshark's VPN.
+Alternatively, if your software supports it, you can use the socks5 server embedded in this container. It will redirect your traffic through the Proton VPN.
 
 ## Provide OpenVPN Configs Manually
 
